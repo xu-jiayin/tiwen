@@ -1,0 +1,4 @@
+# 动态切换环境
+spring:
+  profiles:
+    active: prod
